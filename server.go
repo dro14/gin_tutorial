@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Desktop/gin_gonic/controller"
-	"Desktop/gin_gonic/middlewares"
-	"Desktop/gin_gonic/service"
+	"github.com/dro14/gin_tutorial/controller"
+	"github.com/dro14/gin_tutorial/middlewares"
+	"github.com/dro14/gin_tutorial/service"
 	"io"
 	"net/http"
 	"os"

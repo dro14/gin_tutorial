@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"Desktop/gin_gonic/entity"
-	"Desktop/gin_gonic/service"
-	"Desktop/gin_gonic/validators"
+	"github.com/dro14/gin_tutorial/entity"
+	"github.com/dro14/gin_tutorial/service"
+	"github.com/dro14/gin_tutorial/validators"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

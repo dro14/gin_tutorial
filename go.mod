@@ -1,4 +1,4 @@
-module Desktop/gin_gonic
+module github.com/dro14/gin_tutorial
 
 go 1.19
 

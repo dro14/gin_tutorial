@@ -1,6 +1,6 @@
 package service
 
-import "Desktop/gin_gonic/entity"
+import "github.com/dro14/gin_tutorial/entity"
 
 type VideoService interface {
 	FindAll() []entity.Video
