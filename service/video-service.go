@@ -1,6 +1,6 @@
 package service
 
-import "Desktop/gin_gonic/video1/entity"
+import "Desktop/gin_gonic/entity"
 
 type VideoService interface {
 	FindAll() []entity.Video

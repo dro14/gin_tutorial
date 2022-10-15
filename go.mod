@@ -1,4 +1,4 @@
-module Desktop/gin_gonic/video1
+module Desktop/gin_gonic
 
 go 1.19
 

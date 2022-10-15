@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Desktop/gin_gonic/video1/controller"
-	"Desktop/gin_gonic/video1/middlewares"
-	"Desktop/gin_gonic/video1/service"
+	"Desktop/gin_gonic/controller"
+	"Desktop/gin_gonic/middlewares"
+	"Desktop/gin_gonic/service"
 	"io"
 	"net/http"
 	"os"

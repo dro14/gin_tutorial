@@ -17,3 +17,8 @@
 Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
 [GIN-debug] Environment variable PORT="5000"
 [GIN-debug] Listening and serving HTTP on :5000
+::1 - [15 Oct 22 09:14 +05] GET /api/videos 200 506.542µs 
+::1 - [15 Oct 22 09:15 +05] POST /api/videos 200 743.083µs 
+::1 - [15 Oct 22 09:15 +05] GET /api/videos 200 533.625µs 
+::1 - [15 Oct 22 09:15 +05] POST /api/videos 200 349µs 
+::1 - [15 Oct 22 09:15 +05] GET /api/videos 200 284.5µs 
