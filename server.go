@@ -1,12 +1,13 @@
 package main
 
 import (
-	"github.com/dro14/gin_tutorial/controller"
-	"github.com/dro14/gin_tutorial/middlewares"
-	"github.com/dro14/gin_tutorial/service"
 	"io"
 	"net/http"
 	"os"
+
+	"github.com/dro14/gin_tutorial/controller"
+	"github.com/dro14/gin_tutorial/middlewares"
+	"github.com/dro14/gin_tutorial/service"
 
 	"github.com/gin-gonic/gin"
 	"github.com/tpkeeper/gin-dump"
